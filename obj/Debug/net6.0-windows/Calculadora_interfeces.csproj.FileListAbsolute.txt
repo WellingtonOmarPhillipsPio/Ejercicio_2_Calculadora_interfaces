@@ -1,0 +1,16 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\bin\Debug\net6.0-windows\Calculadora_interfeces.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\bin\Debug\net6.0-windows\Calculadora_interfeces.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\bin\Debug\net6.0-windows\Calculadora_interfeces.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\bin\Debug\net6.0-windows\Calculadora_interfeces.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\bin\Debug\net6.0-windows\Calculadora_interfeces.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\obj\Debug\net6.0-windows\Calculadora_interfeces.Form1.resources
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\obj\Debug\net6.0-windows\Calculadora_interfeces.csproj.GenerateResource.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\obj\Debug\net6.0-windows\Calculadora_interfeces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\obj\Debug\net6.0-windows\Calculadora_interfeces.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\obj\Debug\net6.0-windows\Calculadora_interfeces.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\obj\Debug\net6.0-windows\Calculadora_interfeces.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\obj\Debug\net6.0-windows\Calculadora_interfeces.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\obj\Debug\net6.0-windows\refint\Calculadora_interfeces.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\obj\Debug\net6.0-windows\Calculadora_interfeces.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\obj\Debug\net6.0-windows\Calculadora_interfeces.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Calculadora_interfeces\obj\Debug\net6.0-windows\ref\Calculadora_interfeces.dll
